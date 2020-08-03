@@ -1,1 +1,1 @@
-# COVID-19-Live-Staus-Tracker
+# COVID-19-Live-Status-Tracker
