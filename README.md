@@ -28,4 +28,4 @@
 ![alt text](images/covid_2.jpg)
 
 
-### The graph can also be saves using save button
+### The graph can also be saved using save button
