@@ -18,4 +18,14 @@
 
 #### Shows the initial window to enter the country name
 
-![alt text]("images ")
+![alt text](images/covid_1.jpg)
+
+
+## Screenshot-2
+
+#### After entering country live status is displayed along with the graph as shown below
+
+![alt text](images/covid_2.jpg)
+
+
+### The graph can also be saves using save button
